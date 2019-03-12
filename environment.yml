@@ -1,0 +1,8 @@
+name: show-and-tell
+
+dependencies:
+  - python=3.6
+  - pip:
+      - numpy
+      - tensorflow==1.6.0
+      - requests==2.18.4
